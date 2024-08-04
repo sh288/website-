@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is the correct syntax to output 'Hello, World' in Python?",
+        "choice1": "echo 'Hello, World'",
+        "choice2": "print('Hello, World')",
+        "choice3": "printf('Hello, World')",
+        "choice4": "cout << 'Hello, World'",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a Python data type?",
+        "choice1": "list",
+        "choice2": "integer",
+        "choice3": "character",
+        "choice4": "boolean",
+        "answer": 1
+    },
+    {
+        "question": "What keyword is used to define a function in Python?",
+        "choice1": "function",
+        "choice2": "def",
+        "choice3": "func",
+        "choice4": "define",
+        "answer": 2
+    },
+    {
+        "question": "How do you insert COMMENTS in Python code?",
+        "choice1": "// This is a comment",
+        "choice2": "# This is a comment",
+        "choice3": "/* This is a comment */",
+        "choice4": "<!-- This is a comment -->",
+        "answer": 2
+    },
+    {
+        "question": "Which method can be used to remove whitespace from the beginning and the end of a string?",
+        "choice1": "strip()",
+        "choice2": "trim()",
+        "choice3": "len()",
+        "choice4": "ptrim()",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct file extension for Python files?",
+        "choice1": ".pyth",
+        "choice2": ".pt",
+        "choice3": ".py",
+        "choice4": ".pyt",
+        "answer": 3
+    },
+    {
+        "question": "How do you create a variable with the numeric value 5?",
+        "choice1": "x = 5",
+        "choice2": "x == 5",
+        "choice3": "x := 5",
+        "choice4": "x equals 5",
+        "answer": 1
+    },
+    {
+        "question": "Which operator is used to compare two values?",
+        "choice1": "=",
+        "choice2": "==",
+        "choice3": "===",
+        "choice4": "equals",
+        "answer": 2
+    },
+    {
+        "question": "Which of these collections defines a mutable sequence in Python?",
+        "choice1": "tuple",
+        "choice2": "dictionary",
+        "choice3": "set",
+        "choice4": "list",
+        "answer": 4
+    },
+    {
+        "question": "What is the output of 3 ** 2 in Python?",
+        "choice1": "6",
+        "choice2": "9",
+        "choice3": "8",
+        "choice4": "3",
+        "answer": 2
+    },
+    {
+        "question": "What is the correct way to create a function in Python?",
+        "choice1": "function myFunction():",
+        "choice2": "def myFunction():",
+        "choice3": "create myFunction():",
+        "choice4": "function:myFunction()",
+        "answer": 2
+    },
+    {
+        "question": "Which statement is used to stop a loop?",
+        "choice1": "stop",
+        "choice2": "break",
+        "choice3": "end",
+        "choice4": "exit",
+        "answer": 2
+    },
+    {
+        "question": "Which function is used to read input from the user?",
+        "choice1": "cin()",
+        "choice2": "scanf()",
+        "choice3": "input()",
+        "choice4": "read()",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Python?",
+        "choice1": "try/except",
+        "choice2": "catch/except",
+        "choice3": "try/catch",
+        "choice4": "catch/handle",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the correct way to write a list in Python?",
+        "choice1": "[1, 2, 3]",
+        "choice2": "(1, 2, 3)",
+        "choice3": "{1, 2, 3}",
+        "choice4": "{1: 2, 3: 4}",
+        "answer": 1
+    },
+    {
+        "question": "What is the output of the following code: print('Hello' + ' ' + 'World')",
+        "choice1": "'HelloWorld'",
+        "choice2": "'Hello World'",
+        "choice3": "'Hello, World'",
+        "choice4": "'Hello + World'",
+        "answer": 2
+    },
+    {
+        "question": "What does the 'len()' function do?",
+        "choice1": "Returns the length of an object",
+        "choice2": "Converts an object to a string",
+        "choice3": "Returns the type of an object",
+        "choice4": "Creates a new list",
+        "answer": 1
+    },
+    {
+        "question": "How do you start a for loop in Python?",
+        "choice1": "for x to y:",
+        "choice2": "for each x in y:",
+        "choice3": "for x in y:",
+        "choice4": "for x in range(y):",
+        "answer": 3
+    },
+    {
+        "question": "Which of these is a Python tuple?",
+        "choice1": "[1, 2, 3]",
+        "choice2": "(1, 2, 3)",
+        "choice3": "{1, 2, 3}",
+        "choice4": "{1: 2, 3: 4}",
+        "answer": 2
+    },
+    {
+        "question": "How do you write an inline comment in Python?",
+        "choice1": "// This is a comment",
+        "choice2": "/* This is a comment */",
+        "choice3": "# This is a comment",
+        "choice4": "<!-- This is a comment -->",
+        "answer": 3
+    }
+]
